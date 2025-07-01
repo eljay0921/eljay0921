@@ -3,13 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=dev.jay&fontSize=60&fontColor=ffffff&fontAlign=80)
 
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>About Me.</h2>
-<p class="has-line-data" data-line-start="3" data-line-end="4">안녕하세요, 개발자 진입니다.</p>
+<p class="has-line-data" data-line-start="3" data-line-end="4">안녕하세요, 개발자 <strong>진</strong>입니다.</p>
 
-<p>Mail To : <a href="mailto:lj7812@gmail.com">lj7812@gmail.com</a> / <a href="mailto:ivynk@naver.com">ivynk@naver.com</a></p>
-<p>Blogging : (준비중)</p>
-<p>Resume : (준비중)</p>
+<p>
+  Mail To : <a href="mailto:lj7812@gmail.com">lj7812@gmail.com</a> / <a href="mailto:ivynk@naver.com">ivynk@naver.com</a> <br>
+  Blogging : (준비중) <br>
+  Resume : (준비중) <br>
+</p>
 
-<br>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>Skills.</h2>
 <h3>🧑‍💻 I Used.</h3>
 <img src="https://img.shields.io/badge/JAVA-ff6812?style=for-the-badge&logo=JAVA&logoColor=white">
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-12b0ff?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -41,12 +42,17 @@
 <br>
 <img src="https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/WhaTap-%2fff12?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white">
+<img src="https://img.shields.io/badge/datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white"> ...
 
 
 <br>
 <h4>📖 I Learned.</h4>
-<img src="https://img.shields.io/badge/<이름-RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59?style=flat-square&logo=express.js&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E?style=flat-square&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"> ...
 
 <br>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>GitHub Stats.</h2>
