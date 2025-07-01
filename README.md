@@ -15,27 +15,34 @@
 <img src="https://img.shields.io/badge/JAVA-ff6812?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20S3-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20ASG-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20ALB-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/<이름-RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름-RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/confluence-%230A0FFF?style=for-the-badge&logo=confluence&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/WhaTap-%2fff12?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white">
 
-
-Eclipse, SQL Developer, PostMan,
-Slack, Redmine, Jira Confluence,
-AWS(CloudWatch), WhaTap, DataDog
 
 <br>
 <h4>📖 I Learned.</h4>
