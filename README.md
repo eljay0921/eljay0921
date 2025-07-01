@@ -22,6 +22,7 @@
 <br>
 <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white">
 <br>
 <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
@@ -39,7 +40,7 @@
 <img src="https://img.shields.io/badge/WhaTap-12ffc6?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white"> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
