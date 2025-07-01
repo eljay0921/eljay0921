@@ -14,39 +14,39 @@
 
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>Skills.</h2>
 <h3>I Used. 🧑‍💻</h3>
-<img src="https://img.shields.io/badge/JAVA-ff6812?style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.NET&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-12b0ff?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20S3-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20ASG-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20ALB-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/AWS%20ASG-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/AWS%20ALB-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff">
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/AWS%20RDS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
+<br>
+<img src="https://custom-icon-badges.demolab.com/badge/AWS%20CloudWatch-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/WhaTap-12ffc6?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white"> 
-<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Fiddler-ff1285?style=for-the-badge&logo=Fiddler&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/confluence-%230A0FFF?style=for-the-badge&logo=confluence&logoColor=white"> 
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"> 
+<br>
 ...
 <br>
 <h4>I Learned. 📖</h4>
@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/nestjs-%23E0234E?style=flat-square&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"> 
+<br>
 ...
 <br>
 <h4>Something else. 🎮</h4>
@@ -65,8 +66,8 @@
 <br>
 <img src="https://img.shields.io/badge/Playstation%205-003791?style=flat-square&logo=Playstation-5&logoColor=white"> 
 <img src="https://img.shields.io/badge/Switch-E60012?style=flat-square&logo=Switch&logoColor=white"> 
+<br>
 ...
-
 <br>
 <br>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>GitHub Stats.</h2>
