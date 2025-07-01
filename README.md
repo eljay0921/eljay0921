@@ -12,20 +12,34 @@
 <br>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>Skills.</h2>
 <h3>🧑‍💻 I Used.</h3>
-<img src="https://img.shields.io/badge/JAVA-ff6812?style=flat&logo=JAVA&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-ff6812?style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/<이름-RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름-RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
+
+
+Eclipse, SQL Developer, PostMan,
+Slack, Redmine, Jira Confluence,
+AWS(CloudWatch), WhaTap, DataDog
 
 <br>
 <h4>📖 I Learned.</h4>
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
-<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름-RGB색상>?style=for-the-badge&logo=<로고이름>&logoColor=white">
 
 <br>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>GitHub Stats.</h2>
