@@ -79,6 +79,8 @@
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>Algorithm Stats.</h2>
 <p>
   <img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812" />
+  <img height=200 width=400 align="center" src="http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark"/>
+  <br>
   <img height=200 width=400 align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=dev-jay&theme=dark" />
 </p>
 
