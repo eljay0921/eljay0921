@@ -14,7 +14,6 @@
 
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>Skills.</h2>
 <h3>I Used. 🧑‍💻</h3>
-<p>실무에서 사용한 기술, 환경, Tools를 의미합니다</p>
 <img src="https://img.shields.io/badge/JAVA-ff6812?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -51,7 +50,6 @@
 ...
 <br>
 <h4>I Learned. 📖</h4>
-<p>개인적으로 학습한 낮은 수준의 기술 및 Tools를 의미합니다</p>
 <img src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-%23404d59?style=flat-square&logo=express.js&logoColor=white">
@@ -60,6 +58,15 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"> 
 ...
+<br>
+<h4>Something else. 🎮</h4>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
+<img src="https://img.shields.io/badge/Davinci%20Resolve-852b07?style=flat-square&logo=Davinci%20Resolve&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/Playstation%205-003791?style=flat-square&logo=Playstation-5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Switch-E60012?style=flat-square&logo=Switch&logoColor=white"> 
+...
+
 <br>
 <br>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>GitHub Stats.</h2>
