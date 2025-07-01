@@ -12,12 +12,14 @@
 </p>
 
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>Skills.</h2>
-<h3>🧑‍💻 I Used.</h3>
+<h3>I Used. 🧑‍💻</h3>
 <img src="https://img.shields.io/badge/JAVA-ff6812?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.NET&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-12b0ff?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white">
@@ -46,7 +48,7 @@
 
 
 <br>
-<h4>📖 I Learned.</h4>
+<h4>I Learned. 📖</h4>
 <img src="https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-%23404d59?style=flat-square&logo=express.js&logoColor=white">
