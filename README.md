@@ -10,6 +10,7 @@
   Blogging : (준비중) <br>
   Resume : (준비중) <br>
 </p>
+<br>
 
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>Skills.</h2>
 <h3>I Used. 🧑‍💻</h3>
@@ -33,23 +34,21 @@
 <img src="https://img.shields.io/badge/AWS%20ASG-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20ALB-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
 <br>
+<img src="https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/WhaTap-12ffc6?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white"> 
+<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Fiddler-ff1285?style=for-the-badge&logo=Fiddler&logoColor=white">
-
 <br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/confluence-%230A0FFF?style=for-the-badge&logo=confluence&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/WhaTap-12ffc6?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white"> ...
-
-
+<img src="https://img.shields.io/badge/confluence-%230A0FFF?style=for-the-badge&logo=confluence&logoColor=white"> 
+...
 <br>
 <h4>I Learned. 📖</h4>
 <p>개인적으로 학습한 낮은 수준의 기술 및 Tools를 의미합니다</p>
@@ -61,8 +60,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"> 
 ...
-
-
+<br>
 <br>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>GitHub Stats.</h2>
 <p>
