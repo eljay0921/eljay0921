@@ -82,6 +82,7 @@
   <img height=200 width=400 align="center" src="http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark"/>
   <br>
   <img height=200 width=400 align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=dev-jay&theme=dark" />
+  <img height=200 width=400 align="center" src="https://leetcard.jacoblin.cool/lj7812?theme=unicorn" />
 </p>
 
 <br>
