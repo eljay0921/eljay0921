@@ -9,6 +9,23 @@
 <p>Blogging : (준비중)</p>
 <p>Resume : (준비중)</p>
 
+<br>
+<h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>Skills.</h2>
+<h3>🧑‍💻 I Used.</h3>
+<img src="https://img.shields.io/badge/JAVA-ff6812?style=flat&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+
+<br>
+<h4>📖 I Learned.</h4>
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
+<img src="https://img.shields.io/badge/<이름>-<RGB색상>?style=flat&logo=<로고이름>&logoColor=white">
 
 <br>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>GitHub Stats.</h2>
