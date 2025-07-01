@@ -11,14 +11,16 @@
 
 
 <br>
-<a href="https://github.com/eljay0921"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eljay0921&show_icons=true&theme=buefy&card_width=300" /></a>
-<a href="https://github.com/eljay0921?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljay0921&layout=compact&langs_count=8&card_width=300" /></a>
+<a href="https://github.com/eljay0921"><img height=200 align="center" src="https://streak-stats.demolab.com/?user=eljay0921&theme=dark&border=E4E2E2&card_width=400" /></a>
+<a href="https://github.com/eljay0921?tab=repositories"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljay0921&theme=dark&layout=compact&langs_count=8&card_width=300" /></a>
 
 </div>
 <br>
 <div align="center">
+
+<img height=200 width=400 align="center" src="https://leetcard.jacoblin.cool/lj7812?theme=transparent" />
 <img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812" />
-<img height=200 align="center" src="https://streak-stats.demolab.com/?user=eljay0921&theme=buefy&border=E4E2E2&card_width=400" />
+
 </div>
 <br>
 <br>
