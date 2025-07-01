@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=dev.jay&fontSize=60&fontColor=ffffff&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=dev.jay&fontSize=60&fontColor=ffffff)
 
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="About_Me_2"></a>About Me.</h2>
 <p class="has-line-data" data-line-start="3" data-line-end="4">안녕하세요, 개발자 <strong>진</strong>입니다.</p>
