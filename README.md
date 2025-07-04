@@ -6,9 +6,8 @@
 <p class="has-line-data" data-line-start="3" data-line-end="4">안녕하세요, 개발자 <strong>진</strong>입니다.</p>
 
 <p>
-  Mail To : <a href="mailto:lj7812@gmail.com">lj7812@gmail.com</a> / <a href="mailto:ivynk@naver.com">ivynk@naver.com</a> <br>
-  Blogging : (준비중) <br>
-  Resume : (준비중) <br>
+  Mail To : <a href="mailto:ivynk@naver.com">ivynk@naver.com</a> <br>
+  Links : (준비중) <br>
 </p>
 <br>
 
