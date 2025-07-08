@@ -44,7 +44,3 @@ Algorithm Stats.
 ### LeetCode
 
  [![](https://leetcard.jacoblin.cool/lj7812?theme=unicorn)](https://leetcode.com/u/lj7812/)
-
-### CodeWars
-
- [![](https://codewars-stats-ignacio-cuadra.vercel.app/?username=dev-jay&theme=dark)](https://www.codewars.com/users/dev-jay)
