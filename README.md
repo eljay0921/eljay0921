@@ -3,9 +3,9 @@ About.
 
 안녕하세요, 개발자 **진**입니다.
 
-Mail To : [ivynk@naver.com](mailto:ivynk@naver.com) 
+📫 Mail To : [GMail](mailto:lj7812@gmail.com) | [Naver](mailto:ivynk@naver.com) 
 
-Links : (준비 중)
+🔗 Links : (준비 중)
 
 
 
