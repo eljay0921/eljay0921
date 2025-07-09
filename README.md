@@ -37,6 +37,8 @@ Skills.
 Algorithm Stats.
 ================
 
+> 2025년 06월 30일 시작 🥵🏃‍♀️‍➡️  
+
 ### solved.ac(baekjoon) 
 
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812)](https://solved.ac/profile/lj7812)
@@ -44,3 +46,7 @@ Algorithm Stats.
 ### LeetCode
 
  [![](https://leetcard.jacoblin.cool/lj7812?theme=unicorn)](https://leetcode.com/u/lj7812/)
+
+
+---
+_Last updated. 2025.07.09_
