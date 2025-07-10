@@ -7,10 +7,11 @@ About.
 
 🔗 Links : (준비 중)  
 
+
 Skills.
 =======
 
-### 🧑‍💻 업무 상 사용한 기술
+### 🧑‍💻 업무 상 사용한 기술 & 환경
 
 📝 **Languages** : Java, C#, .NET  
 
@@ -30,11 +31,15 @@ Skills.
 
 💻 **Operating Systems** : Linux, Windows  
 
+...  
 
+  
 
-### 📖 개인적으로 학습한 기술
+### 📖 개인적으로 학습한 기술 & 도구
 
-javascript, node.js, express.js, typescript, nest.js, python, ...   
+javascript, node.js, express.js, typescript, nest.js, python, vscode, intelliJ,  
+
+...   
 
 Algorithm Stats.
 ================
