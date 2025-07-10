@@ -13,9 +13,9 @@ Skills.
 
 ### 🧑‍💻 업무 상 사용한 기술 & 환경
 
-📝 **Languages** : Java, C#, .NET  
+📝 **Languages** : Java, C#
 
-🌱 **Frameworks** : Spring, Spring Boot  
+🌱 **Frameworks** : Spring/Spring Boot, .Net Framework  
 
 🗄️ **Databases** : Oracle, Microsoft SQL Server, Redis  
 
@@ -25,11 +25,11 @@ Skills.
 
 📦 **Monitoring** : Whatap, Datadog, AWS CloudWatch  
 
-🛠️ **Development Tools** : Eclipse, Postman  
+🛠️ **Development Tools** : Eclipse, Postman, Fiddler  
 
 💬 **Collaboration Tools** : Slack, Jira, Confluence  
 
-💻 **Operating Systems** : Linux, Windows  
+💻 **OS (Servers)** : Linux, Windows  
 
 ...  
 
