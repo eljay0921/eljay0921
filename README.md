@@ -43,6 +43,7 @@ Algorithm Stats.
 ### solved.ac(baekjoon) 
 
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812)](https://solved.ac/profile/lj7812)
+[![](http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark)](https://solved.ac/profile/lj7812)
 
 ### LeetCode
 
