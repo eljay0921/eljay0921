@@ -31,6 +31,8 @@ Skills.
 
 💻 **OS (Servers)** : Linux, Windows  
 
+🪐 **ETC** : Web Crawling(Selenium, Regex Parsing, ...)
+
 ...  
 
   
