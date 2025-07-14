@@ -25,7 +25,7 @@ Skills.
 
 📦 **Monitoring** : Whatap, Datadog, AWS CloudWatch, Grafana  
 
-🛠️ **Development Tools** : Eclipse, Postman, Fiddler  
+🛠️ **Development Tools** : Eclipse, Visual Studio, Postman, Fiddler  
 
 💬 **Collaboration Tools** : Slack, Jira, Confluence  
 
