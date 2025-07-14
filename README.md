@@ -39,7 +39,7 @@ Skills.
 
 ### 📖 개인적으로 학습한 기술 & 도구
 
-javascript, node.js, express.js, typescript, nest.js, python, vscode, intelliJ,  
+javascript, node.js, express.js, typescript, nest.js, python, vscode, intelliJ, vscode  
 
 ...   
 
