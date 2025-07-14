@@ -23,7 +23,7 @@ Skills.
 
 ☁️ **Cloud Environment** : AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
 
-📦 **Monitoring** : Whatap, Datadog, AWS CloudWatch  
+📦 **Monitoring** : Whatap, Datadog, AWS CloudWatch, Grafana  
 
 🛠️ **Development Tools** : Eclipse, Postman, Fiddler  
 
