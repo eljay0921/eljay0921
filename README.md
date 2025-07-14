@@ -60,5 +60,3 @@ Algorithm Stats.
 
 
 ---
-
-_Last updated. 2025.07.09_
