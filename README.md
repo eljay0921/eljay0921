@@ -51,14 +51,7 @@ Algorithm Stats.
 
 [repo-algorithms](https://github.com/eljay0921/algorithms)
 
-### solved.ac(baekjoon) 
-
-[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812)](https://solved.ac/profile/lj7812)
-[![](http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark)](https://solved.ac/profile/lj7812)
-
-### LeetCode
-
- [![](https://leetcard.jacoblin.cool/lj7812?theme=unicorn)](https://leetcode.com/u/lj7812/)
-
+### [solved.ac(baekjoon)](https://solved.ac/profile/lj7812)   
+### [LeetCode](https://leetcode.com/u/lj7812/)  
 
 ---
