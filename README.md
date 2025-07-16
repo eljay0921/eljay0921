@@ -51,7 +51,7 @@ Algorithm Stats.
 
 [repo-algorithms](https://github.com/eljay0921/algorithms)
 
-### [solved.ac(baekjoon)](https://solved.ac/profile/lj7812?target='_blank')   
-### [LeetCode](https://leetcode.com/u/lj7812?target='_blank')  
+### <a href="https://solved.ac/profile/lj7812" target="_blank">🔗solved.ac(Baekjoon)</a>   
+### <a href="https://leetcode.com/u/lj7812/" target="_blank">🔗leetcode</a>  
 
 ---
