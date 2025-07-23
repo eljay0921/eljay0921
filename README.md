@@ -43,11 +43,11 @@ Skills.
 
 #### 💪 또 다른 관심사/기술  
 
-🏃‍♀️‍➡️ Workouts : 러닝, 근력 운동  
+🏃‍♀️‍➡️ 운동인 : 러닝, 근력 운동  
 
-📹 Video Editing : Adobe Premiere Pro, Davinci Resolve  
+🎮 게이머 : PlayStation, Nintendo Switch  
 
-🎮 Gaming : PlayStation, Nintendo Switch, 유튜브 채널 운영  
+📹 제작자 : Adobe Premiere Pro, Davinci Resolve, 유튜브 채널 운영  
 
 -- 
 
