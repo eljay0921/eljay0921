@@ -31,17 +31,25 @@ Skills.
 
 💻 **OS (Servers)** : Linux, Windows  
 
-🪐 **ETC** : Web Crawling(Selenium, Regex Parsing, ...)
+🪐 **ETC** : Web Crawling(Selenium, Regex Parsing, ...)  
 
-...  
-
+--
   
+### 📖 개인적으로 학습한 기술
 
-### 📖 개인적으로 학습한 기술 & 도구
+🤓 javascript, node.js, express.js, typescript, nest.js, python, ...    
 
-javascript, node.js, express.js, typescript, nest.js, python, vscode, intelliJ, vscode  
+--
 
-...   
+#### 💪 또 다른 관심사/기술  
+
+🏃‍♀️‍➡️ Workouts : 러닝, 근력 운동  
+
+📹 Video Editing : Adobe Premiere Pro, Davinci Resolve  
+
+🎮 Gaming : PlayStation, Nintendo Switch, 유튜브 채널 운영  
+
+-- 
 
 Algorithm Stats.
 ================
