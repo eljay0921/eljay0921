@@ -63,7 +63,7 @@ Stats.
 > 2025년 06월 30일 시작 🏃‍♀️‍➡️  
 > 늦었지만 알고리즘 훈련에 정진 🥵  
 
-[repo-algorithms](https://github.com/eljay0921/algorithms)
+[repo for algorithms](https://github.com/eljay0921/algorithms-repo)
 
 ### [🔗solved.ac(Baekjoon)](https://solved.ac/profile/lj7812)  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812)](https://solved.ac/profile/lj7812) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark)](https://solved.ac/profile/lj7812)
