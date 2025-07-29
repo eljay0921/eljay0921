@@ -51,8 +51,14 @@ Skills.
 
 -- 
 
-Algorithm Stats.
+Stats.
 ================
+
+## Repositories
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljay0921&layout=compact&theme=blueberry)
+
+## Algorithms
 
 > 2025년 06월 30일 시작 🏃‍♀️‍➡️  
 > 늦었지만 알고리즘 훈련에 정진 🥵  
