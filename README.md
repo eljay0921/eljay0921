@@ -66,7 +66,7 @@ Stats.
 [repo-algorithms](https://github.com/eljay0921/algorithms)
 
 ### [🔗solved.ac(Baekjoon)](https://solved.ac/profile/lj7812)  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812)](https://solved.ac/lj7812) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark)](https://solved.ac/lj7812)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812)](https://solved.ac/profile/lj7812) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark)](https://solved.ac/profile/lj7812)
 
 ### [🔗leetcode](https://leetcode.com/u/lj7812/)  
 
