@@ -1,73 +1,46 @@
-About.
-======
-
-안녕하세요, 🧑‍💻 개발자 **진**입니다.
-
-📫 Mail To : [GMail](mailto:lj7812@gmail.com) | [Naver](mailto:ivynk@naver.com) 
-
-🔗 Links : (준비 중)  
-
-
-Skills.
+About jin.
 =======
 
-### 🧑‍💻 업무 상 사용한 기술 & 환경
+### 🧑‍💻 업무 상 사용한 기술
 
-📝 **Languages** : Java, C#
-
-🌱 **Frameworks** : Spring/Spring Boot, .Net Framework  
-
-🗄️ **Databases** : Oracle, Microsoft SQL Server, Redis  
-
-🔀 **Version Control** : Git (GitLab, GitHub), Git-Flow, SourceTree  
-
-☁️ **Cloud Environment** : AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
-
-📦 **Monitoring** : Whatap, Datadog, AWS CloudWatch, Grafana  
-
-🛠️ **Development Tools** : Eclipse, Visual Studio, Postman, Fiddler  
-
-💬 **Collaboration Tools** : Slack, Jira, Confluence  
-
-💻 **OS (Servers)** : Linux, Windows  
-
-🪐 **ETC** : Web Crawling(Selenium, Regex Parsing, ...)  
-
---
+- Java, C#, Spring/Spring Boot, .Net Framework  
+- Oracle, Microsoft SQL Server, Redis  
+- Git (GitLab, GitHub), Git-Flow, SourceTree  
+- AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
+- Whatap, Datadog, AWS CloudWatch, Grafana  
+- Eclipse, Visual Studio, VS Code, Postman, Fiddler  
+- Slack, Jira, Confluence  
+- Linux, Windows  
+- Web Crawling(Selenium, Regex Parsing, ...)  
   
-### 📖 개인적으로 학습한 기술
+### 📖 개인적인 학습 수준 기술
 
-🤓 javascript, node.js, express.js, typescript, nest.js, python, ...    
+- python, node.js, docker, ...     
 
---
+#### 💪 또 다른 나 
 
-#### 💪 또 다른 나는, 
-
-🏃‍♀️‍➡️ 운동인 : 러닝, 근력 운동  
-
-🎮 게이머 : PlayStation, Nintendo Switch  
-
-📹 제작자 : Adobe Premiere Pro, Davinci Resolve, 유튜브 채널 운영  
-
--- 
+- 🏃‍♀️‍➡️ Runner : 러닝, 근력 운동  
+- 🎮 Gamer : PlayStation, Nintendo Switch  
+- 📹 Creator : Adobe Premiere Pro, Davinci Resolve, YouTube Channel 운영    
 
 Stats.
 ================
 
-## Languages
+### Repository Stat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljay0921&layout=compact&theme=blueberry)
 
-## Algorithms
+### Learning log
 
-> 2025년 06월 30일 시작 🏃‍♀️‍➡️  
-> 늦었지만 알고리즘 훈련에 정진 🥵  
+[학습 기록](https://github.com/eljay0921/learning-log-repo)
 
-[repo for algorithms](https://github.com/eljay0921/algorithms-repo)
+### Algorithms
+
+> 2025.06.30 ~ 뒤늦게 정진 🏃‍♀️‍➡️    
+
+[알고리즘 풀이 기록](https://github.com/eljay0921/algorithms-repo)
 
 ### [🔗solved.ac(Baekjoon)](https://solved.ac/profile/lj7812)  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812)](https://solved.ac/profile/lj7812) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark)](https://solved.ac/profile/lj7812)
-
-### [🔗leetcode](https://leetcode.com/u/lj7812/)  
 
 ---
