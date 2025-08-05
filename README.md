@@ -4,17 +4,17 @@
 
 - Java, C#, Spring/Spring Boot, .Net Framework  
 - Oracle, Microsoft SQL Server, Redis  
-- Git (GitLab, GitHub), Git-Flow, SourceTree  
+- Git, Git-Flow, SourceTree, GitLab  
 - AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
 - Whatap, Datadog, AWS CloudWatch, Grafana  
-- Eclipse, Visual Studio, VS Code, Postman, Fiddler  
+- Eclipse, Visual Studio, Postman, Fiddler  
 - Slack, Jira, Confluence  
 - Linux, Windows  
 - Web Crawling(Selenium, Regex Parsing, ...)  
   
 ### 📖 개인적인 학습 수준
 
-- python, node.js, docker, ...     
+- python, node.js, docker, github, vscode, ...     
 
 #### 💪 또 다른 나 
 
