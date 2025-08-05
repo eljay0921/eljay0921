@@ -1,5 +1,4 @@
-About jin.
-=======
+# About Jin.
 
 ### 🧑‍💻 업무 상 사용한 기술
 
@@ -13,18 +12,17 @@ About jin.
 - Linux, Windows  
 - Web Crawling(Selenium, Regex Parsing, ...)  
   
-### 📖 개인적인 학습 수준 기술
+### 📖 개인적인 학습 수준
 
 - python, node.js, docker, ...     
 
 #### 💪 또 다른 나 
 
 - 🏃‍♀️‍➡️ Runner : 러닝, 근력 운동  
-- 🎮 Gamer : PlayStation, Nintendo Switch  
-- 📹 Creator : Adobe Premiere Pro, Davinci Resolve, YouTube Channel 운영    
+- 🎮 Gamer : Video Gamer (PS5, NSW2)  
+- 📹 Creator : Video Editing, YouTube Channel 운영    
 
-Stats.
-================
+# Stats.
 
 ### Repository Stat
 
