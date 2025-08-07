@@ -1,6 +1,6 @@
 # About Jin.
 
-### 🧑‍💻 업무 상 사용한 기술
+### 🧑‍💻 업무 수준의 Skills, Tools, Environments ...
 
 - Java, C#, Spring/Spring Boot, .Net Framework  
 - Oracle, Microsoft SQL Server, Redis  
@@ -12,7 +12,7 @@
 - Linux, Windows  
 - Web Crawling(Selenium, Regex Parsing, ...)  
   
-### 📖 개인적인 학습 수준
+### 📖 학습 수준의 Skills, Tools ...
 
 - python, node.js, docker, github, vscode, ...     
 
