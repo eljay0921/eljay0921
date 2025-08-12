@@ -1,7 +1,8 @@
 # About Jin.
 
-### 🧑‍💻 업무 수준의 Skills, Tools, Environments ...
+### Skills
 
+#### 👨🏻‍💻 업무 수준
 - Java, C#, Spring/Spring Boot, .Net Framework  
 - Oracle, Microsoft SQL Server, Redis  
 - Git, Git-Flow, SourceTree, GitLab  
@@ -12,15 +13,15 @@
 - Linux, Windows  
 - Web Crawling(Selenium, Regex Parsing, ...)  
   
-### 📖 학습 수준의 Skills, Tools ...
+#### 📖 학습 수준
 
 - python, node.js, docker, github, vscode, ...     
 
-#### 💪 또 다른 나 
+#### 💪 또 다른 나는 
 
 - 🏃‍♀️‍➡️ Runner : 러닝, 근력 운동  
 - 🎮 Gamer : Video Gamer (PS5, NSW2)  
-- 📹 Creator : Video Editing, YouTube Channel 운영    
+- 🎥 Creator : Video Editing, YouTube Channel 운영    
 
 # Stats.
 
