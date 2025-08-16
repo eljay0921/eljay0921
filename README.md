@@ -31,15 +31,7 @@
 
 ### Learning log
 
-[학습 기록](https://github.com/eljay0921/learning-log-repo)
-
-### Algorithms
-
-> 2025.06.30 ~ 뒤늦게 정진 🏃‍♀️‍➡️    
-
+[학습 기록](https://github.com/eljay0921/learning-log-repo)  
 [알고리즘 풀이 기록](https://github.com/eljay0921/algorithms-repo)
-
-### [🔗solved.ac(Baekjoon)](https://solved.ac/profile/lj7812)  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lj7812)](https://solved.ac/profile/lj7812) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=lj7812&theme=dark)](https://solved.ac/profile/lj7812)
 
 ---
