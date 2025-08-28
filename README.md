@@ -3,8 +3,8 @@
 ### Skills
 
 #### 👨🏻‍💻 실무 경험
-- Java, C#, Spring/Spring Boot, .Net Framework  
-- Oracle, Microsoft SQL Server, Redis  
+- Java(Spring Framework), C#(.Net Framework),  
+- Oracle, MyBatis, Microsoft SQL Server, Redis  
 - Git, Git-Flow, SourceTree, GitLab  
 - AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
 - Whatap, Datadog, AWS CloudWatch, Grafana  
@@ -15,7 +15,7 @@
   
 #### 📖 학습 & 토이 프로젝트
 
-- python(fast api, sqlalchemy), typescript(nestjs, typeorm), docker, ... 
+- Spring Data JPA(& querydsl), Python(FastAPI, SQLAlchemy), TypeScript(NestJS, typeorm), docker, ... 
 
 #### 💪 또 다른 나는 
 
