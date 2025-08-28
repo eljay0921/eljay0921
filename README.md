@@ -9,8 +9,8 @@
 - AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
 - Whatap, Datadog, AWS CloudWatch, Grafana  
 - Eclipse, Visual Studio, Postman, Fiddler  
-- Slack, Jira, Confluence  
-- Linux, Windows  
+- Slack, Redmine, Jira, Confluence  
+- Linux/Windows Servers  
 - Web Crawling(Selenium, Regex Parsing, ...)  
   
 #### 📖 학습 & 토이 프로젝트
