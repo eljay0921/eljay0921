@@ -2,7 +2,7 @@
 
 ### Skills
 
-#### 👨🏻‍💻 업무 수준
+#### 👨🏻‍💻 실무 경험
 - Java, C#, Spring/Spring Boot, .Net Framework  
 - Oracle, Microsoft SQL Server, Redis  
 - Git, Git-Flow, SourceTree, GitLab  
@@ -13,9 +13,9 @@
 - Linux, Windows  
 - Web Crawling(Selenium, Regex Parsing, ...)  
   
-#### 📖 학습 수준
+#### 📖 학습 & 토이 프로젝트
 
-- python, node.js, docker, github, vscode, ...     
+- python(fast api, sqlalchemy), typescript(nestjs, typeorm), docker, ... 
 
 #### 💪 또 다른 나는 
 
@@ -33,5 +33,6 @@
 
 [학습 기록](https://github.com/eljay0921/learning-log-repo)  
 [알고리즘 풀이 기록](https://github.com/eljay0921/algorithms-repo)
+[토이 프로젝트](https://github.com/eljay0921/toy-projects)
 
 ---
