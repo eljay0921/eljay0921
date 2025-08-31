@@ -15,7 +15,10 @@
   
 #### 📖 학습 & 토이 프로젝트
 
-- Spring Data JPA(& querydsl), Python(FastAPI, SQLAlchemy), TypeScript(NestJS, typeorm), docker, ... 
+- Spring Data JPA(& querydsl)
+- Python(FastAPI, SQLAlchemy)
+- TypeScript(NestJS, typeorm)
+- docker, ... 
 
 #### 💪 또 다른 나는 
 
