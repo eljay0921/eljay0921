@@ -38,8 +38,8 @@
 [토이 프로젝트](https://github.com/eljay0921/toy-projects)  
 
 ### Contributions History
-[2025](https://github.com/eljay0921?tab=overview&from=2025-01-01&to=2025-12-31)  
-[2021](https://github.com/eljay0921?tab=overview&from=2021-01-01&to=2021-12-31)  
-[2020](https://github.com/eljay0921?tab=overview&from=2020-01-01&to=2020-12-31)  
+[2025](https://github.com/eljay0921?tab=overview&from=2025-01-01&to=2025-12-31) |
+[2021](https://github.com/eljay0921?tab=overview&from=2021-01-01&to=2021-12-31) |
+[2020](https://github.com/eljay0921?tab=overview&from=2020-01-01&to=2020-12-31) |
 
 ---
