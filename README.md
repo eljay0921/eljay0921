@@ -23,7 +23,6 @@
 #### 💪 또 다른 나는 
 
 - 🏃‍♀️‍➡️ Runner : 러닝, 근력 운동  
-- 🎮 Gamer : Video Gamer (PS5, NSW2)  
 - 🎥 Creator : Video Editing, YouTube Channel 운영    
 
 # Stats.
@@ -31,6 +30,11 @@
 ### Repository Stat
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljay0921&layout=compact&theme=blueberry)
+
+### Repository History
+[2025](https://github.com/eljay0921?tab=overview&from=2025-01-01&to=2025-12-31)  
+[2021](https://github.com/eljay0921?tab=overview&from=2021-01-01&to=2021-12-31)  
+[2020](https://github.com/eljay0921?tab=overview&from=2020-01-01&to=2020-12-31)  
 
 ### Learning log
 
