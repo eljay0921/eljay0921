@@ -18,7 +18,7 @@
 - Spring Data JPA(& querydsl)
 - Python(FastAPI, SQLAlchemy)
 - TypeScript(NestJS, typeorm)
-- docker, ... 
+- Docker, ... 
 
 #### 💪 또 다른 나는 
 
