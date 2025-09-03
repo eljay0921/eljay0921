@@ -3,8 +3,8 @@
 ### Skills
 
 #### 👨🏻‍💻 실무 환경  
-- Java(Spring Framework/Boot/Batch), MyBatis, C#(.Net Framework)  
-- Oracle, Microsoft SQL Server, Microsoft Access(MDB), Redis  
+- Java(Spring Framework/Boot/Batch), C#(.Net Framework)  
+- MyBatis, Oracle, Microsoft SQL Server, Microsoft Access(MDB), Redis  
 - Git(Git-Flow), SourceTree, GitLab  
 - AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
 - Whatap, Datadog, AWS CloudWatch, Grafana  
