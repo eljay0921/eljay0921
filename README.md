@@ -2,19 +2,18 @@
 
 ### Skills
 
-#### 👨🏻‍💻 실무 경험
-- Java(Spring Framework), MyBatis, C#(.Net Framework),  
+#### 👨🏻‍💻 실무 환경  
+- Java(Spring Framework/Boot/Batch), MyBatis, C#(.Net Framework)  
 - Oracle, Microsoft SQL Server, Microsoft Access(MDB), Redis  
-- Git, Git-Flow, SourceTree, GitLab  
+- Git(Git-Flow), SourceTree, GitLab  
 - AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
 - Whatap, Datadog, AWS CloudWatch, Grafana  
 - Eclipse, Visual Studio, Postman, Fiddler  
 - Slack, Redmine, Jira, Confluence  
-- Linux/Windows Servers  
+- Linux & Windows Servers  
 - Web Crawling(Selenium, Regex Parsing, ...)  
   
-#### 📖 학습 & 토이 프로젝트
-
+#### 📖 학습 & 토이 프로젝트  
 - Spring Data JPA(& querydsl)
 - Python(FastAPI, SQLAlchemy)
 - TypeScript(NestJS, typeorm)
