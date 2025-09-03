@@ -3,8 +3,8 @@
 ### Skills
 
 #### 👨🏻‍💻 실무 경험
-- Java(Spring Framework), C#(.Net Framework),  
-- Oracle, MyBatis, Microsoft SQL Server, Redis  
+- Java(Spring Framework), MyBatis, C#(.Net Framework),  
+- Oracle, Microsoft SQL Server, Microsoft Access(MDB), Redis  
 - Git, Git-Flow, SourceTree, GitLab  
 - AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
 - Whatap, Datadog, AWS CloudWatch, Grafana  
