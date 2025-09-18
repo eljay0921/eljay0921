@@ -2,7 +2,7 @@
 
 ### Skills
 
-#### 👨🏻‍💻 실무 환경  
+#### 👨🏻‍💻 실무 경험 환경  
 - Java(Spring Framework/Boot/Batch), C#(.Net Framework)  
 - MyBatis, Oracle, Microsoft SQL Server, Microsoft Access(MDB), Redis  
 - Git(Git-Flow), SourceTree, GitLab  
