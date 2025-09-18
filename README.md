@@ -13,11 +13,15 @@
 - Linux & Windows Servers  
 - Web Crawling(Selenium, Regex Parsing, ...)  
   
-#### 📖 학습 & 토이 프로젝트  
+#### 📖 학습 및 관심사
+(Learning in progress)
 - Spring Data JPA(& querydsl)
 - Python(FastAPI, SQLAlchemy)
-- TypeScript(NestJS, typeorm)
-- Docker, Kubernetes, ... 
+- Docker, Kubernetes
+- Project Management
+
+(Next)  
+Microservice Architecture, Apache Kafka, ...
 
 # Stats.
 
