@@ -23,9 +23,6 @@
 - AI 활용: ChatGPT, Claude Code, ...
 - 프로젝트: Project Management
 
-(Next)  
-Microservice Architecture, Apache Kafka, ...
-
 # Stats.
 
 ### Learning log
