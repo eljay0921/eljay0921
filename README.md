@@ -16,7 +16,9 @@
 - 기타: Web Crawling(Selenium, Regex Parsing, ...)  
   
 #### 📖 학습 및 관심사
-- 언어/프레임워크: Spring Data JPA(& QueryDSL), Python(FastAPI, SQLAlchemy)
+- 언어/프레임워크:
+  - Spring Data JPA(& QueryDSL)
+  - Python(FastAPI, SQLAlchemy)
 - 클라우드 네이티브 컴퓨팅: Docker, Kubernetes, MSA, ... 
 - AI 활용: ChatGPT, Claude Code, ...
 - 프로젝트: Project Management
