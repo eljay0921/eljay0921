@@ -19,6 +19,7 @@
 - 언어/프레임워크:
   - Spring Data JPA(& QueryDSL)
   - Python(FastAPI, SQLAlchemy)
+  - Kotlin basics
 - 클라우드 네이티브 컴퓨팅: Docker, Kubernetes, MSA, ... 
 - AI 활용: ChatGPT, Claude Code, ...
 - 프로젝트: Project Management
