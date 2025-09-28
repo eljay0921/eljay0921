@@ -6,7 +6,7 @@
 - 언어/프레임워크:
   - Java(Spring Framework/Boot/Batch), MyBatis
   - C#(.NET Framework, SOAP Webservice, Winform, IIS)
-- 데이터스토어: Oracle, Microsoft SQL Server, Microsoft Access(MDB), Redis  
+- DB/Storage: Oracle, Microsoft SQL Server, Microsoft Access(MDB), Redis  
 - 형상관리: Git(Git-Flow), SourceTree, GitLab  
 - 클라우드: AWS (S3, EC2, RDS, ASG, ALB, CloudWatch)  
 - 모니터링: Whatap, Datadog, AWS CloudWatch, Grafana  
