@@ -28,11 +28,13 @@
 
 ### Learning log
 
-[📚 학습 기록](https://github.com/eljay0921/learning-log-repo)  
-[💫 토이 프로젝트](https://github.com/eljay0921/toy-projects)  
-[👨🏻‍💻 알고리즘 풀이 기록](https://github.com/eljay0921/algorithms)  
+[📚 학습 기록](https://github.com/eljay0921/learning-log-repo) | [💫 토이 프로젝트](https://github.com/eljay0921/toy-projects) | [👨🏻‍💻 알고리즘 풀이 기록](https://github.com/eljay0921/algorithms)  
 
 ### Contributions History
 [2025](https://github.com/eljay0921?tab=overview&from=2025-01-01&to=2025-12-31) |
 [2021](https://github.com/eljay0921?tab=overview&from=2021-01-01&to=2021-12-31) |
 [2020](https://github.com/eljay0921?tab=overview&from=2020-01-01&to=2020-12-31) 
+
+### Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eljay0921&layout=compact&theme=dracula)
