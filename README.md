@@ -41,13 +41,13 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
   
 ## 👨🏻‍💻 학습 & 계획
-- [💫 토이 프로젝트](https://github.com/eljay0921/toy-projects) :
+- 💫 토이 프로젝트 [🔗link](https://github.com/eljay0921/toy-projects) 
   - ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) + ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat=fastapi) + ![SQL Alchemy](https://img.shields.io/badge/SQL%20Alchemy-%235835CC.svg?style=flat&logo=amazon-aws&logoColor=white)
   - ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) + ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white) + ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
   - ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) vs ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
   - _(private) Java + Srping Boot + Spring Data JPA_
 
-- 클라우드 네이티브 컴퓨팅 :
+- ☁️ 클라우드 네이티브 컴퓨팅
   - [컨테이너 기술](https://github.com/eljay0921/learning-log-repo/tree/main/10.%20Container) : ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) + ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
   - [Road to Data Engineering](https://github.com/eljay0921/road-to-data-engineering) : ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
     - _(next: apache kafka, apache spark, debezium, airflow, influxDB, ...)_
