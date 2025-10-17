@@ -1,7 +1,8 @@
 ## ✅ 기술 & 환경
 
 - 언어/프레임워크 : ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![SpringFramework](https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
+![SpringFramework](https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-%2307405e.svg?style=flat&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-0078D6?style=flat&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
 - DB/스토리지 : ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
