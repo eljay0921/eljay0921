@@ -45,10 +45,10 @@
   - (private) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flate&logo=Hibernate&logoColor=white) ![SpringFramework](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
 - ☁️ 클라우드 네이티브, ⚡️ 마이크로서비스 
-  - [🔗컨테이너 기술](https://github.com/eljay0921/learning-log-repo/tree/main/10.%20Container) : ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) + ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+  - [🔗컨테이너 기술](https://github.com/eljay0921/learning-log-repo/tree/main/10.%20Container) : ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
   - [🔗Road to Data Engineering](https://github.com/eljay0921/road-to-data-engineering) : ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
     - _(next: apache kafka, debezium, airflow, ...)_
-  - [🔗Road to Microservice Architecture](https://github.com/eljay0921/road-to-msa)
+  - [🔗Road to MSA](https://github.com/eljay0921/road-to-msa)
 
 ## Contributions History
 [2025](https://github.com/eljay0921?tab=overview&from=2025-01-01&to=2025-12-31) |
