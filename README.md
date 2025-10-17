@@ -13,7 +13,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FF6701.svg?style=flat&logoColor=white)
 ![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-%23FF9900.svg?style=flat&logoColor=white) 
-- Cloud/Server : ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+- Cloud/Server : ![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 - Monitor/APM : ![WhaTap](https://img.shields.io/badge/WhaTap-%235835CC.svg?style=flat&logoColor=white)
