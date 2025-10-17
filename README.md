@@ -33,6 +33,8 @@
 
   
 ## 👨🏻‍💻 학습 & 계획
+> 모든 학습과 실습에는 AI를 활용하고 있습니다.
+
 - 💫 토이 프로젝트 [🔗link](https://github.com/eljay0921/toy-projects) 
   - ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat=fastapi)
